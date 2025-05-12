@@ -1,3 +1,5 @@
+https://www.notion.so/Customer-Churn-ELT-pipeline-1ec3f688a074806983bfd009e8bb277d?pvs=4
+
 ### High level Design : 
 
 ![Alt text](doc-images/hld.png)
